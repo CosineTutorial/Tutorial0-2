@@ -1,0 +1,5 @@
+name: Tutorial0
+main: kr.cosine.tutorial.Tutorial0
+version: 1.0-SNAPSHOT
+author: Cosine_A
+description: Tutorial Plugin
